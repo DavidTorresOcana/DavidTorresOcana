@@ -3,7 +3,7 @@
 
  - [Reasearch engineer at Toyota Motor Europe](https://www.linkedin.com/in/davidtorresocana/)
  - Main research topics: computer vision, geometry and machine learning for robotics and autonomous driving
- - [Personal website](davidtorr.es)
+ - [Personal website davidtorr.es](https://davidtorresocana.github.io/devportfolio/)
  
 <!--
 **DavidTorresOcana/DavidTorresOcana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
