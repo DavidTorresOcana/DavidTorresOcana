@@ -1,5 +1,10 @@
 ### Hi there 👋
+[![Davids's github stats](https://github-readme-stats.vercel.app/api?username=DavidTorresOcana)](https://github.com/DavidTorresOcana)
 
+ - [Reasearch engineer at Toyota Motor Europe](https://www.linkedin.com/in/davidtorresocana/)
+ - Main research topics: computer vision, geometry and machine learning for robotics and autonomous driving
+ - [Personal website](davidtorr.es)
+ 
 <!--
 **DavidTorresOcana/DavidTorresOcana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
