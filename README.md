@@ -7,11 +7,11 @@
  - [Personal website davidtorr.es](https://davidtorresocana.github.io/devportfolio/)
  -->
  
-Entrepreneur, achiever, ENTJ.
+I am a robotics and computer vision engineer with over a decade of experience in autonomous systems, spanning defense, aerial vehicles, and, more recently, Automated Driving (AD). My journey has been defined by determination, curiosity, and a strong work ethic driven by a commitment to lifelong learning and self-improvement.
 
-Robotics + machine learning = autonomous vehicles
+Specializing in camera-based perception and state estimation, I have developed algorithms for AD perception, ground robots and aerial vehicles. My competencies includes visual (inertial) odometry, simultaneous localization and mapping (SLAM), and multi-sensor calibration, all underpinned by a strong foundation in mathematics, physics, and computer vision. Proficient in Python, C++, ROS, and machine learning frameworks, I thrive on solving complex challenges that advance the field of intelligent systems.
 
-Teaching robots how to understand our world
+I am passionate about contributing to projects that push boundaries in robotics and autonomous systems and look forward to opportunities to bring impactful innovations to life.
 
 Main research topics iterests: computer vision, SLAM, geometry and machine learning for robotics and autonomous driving
 
